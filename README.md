@@ -1,5 +1,2 @@
 # hello-world
-learning github
-
-Hello World!
-Just want to learn and test Github.
+2nd version of README
